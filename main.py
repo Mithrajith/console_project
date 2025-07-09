@@ -1,6 +1,6 @@
 from vault_manager import VaultManager
 from entries import NoteEntry, PasswordEntry
-
+#print("Welcome to the Vault Manager!")
 vault = VaultManager()
 
 while True:
